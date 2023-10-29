@@ -11,7 +11,7 @@ def function(word):
         return word.upper()    
 
     else:
-        return word.lower
+        return word.lower()
 
 print(function(sample))
 
